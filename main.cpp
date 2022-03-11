@@ -25,6 +25,6 @@ int main(){
     std::cout << "Area del triangolo:"<<triangle<< ";\n"
     << "Area del quadrato:" << square<<";\n"
     << "Area del rettangolo:"<<rectangle<< ";\n"
-    << "Area del trapezio:"<<trapezoid<< ";\n";
+    << "Area del trapezio:"<<trapezoid<< ".\n";
     return 0;
 }
